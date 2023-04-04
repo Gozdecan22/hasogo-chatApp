@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Hasogo</string>
+    <string name="msg_token_fcm">msg</string>
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "22488722074",
+    "project_id": "hasogo-15762",
+    "storage_bucket": "hasogo-15762.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22488722074:android:c658d7d84ba77de1f1cd23",
+        "android_client_info": {
+          "package_name": "com.buildapp.hasogo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "22488722074-72c5lcruumf405dh3ahtgak03hajb5nj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdCi4p-nS6OIW2r5uGI-YXNmVH_TvKvn8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "22488722074-72c5lcruumf405dh3ahtgak03hajb5nj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
